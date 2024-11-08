@@ -17,8 +17,7 @@ In this project:
 ![StockVolume_BarChartRace-ezgif com-optimize (1)](https://github.com/user-attachments/assets/8d1991ea-8210-42dc-ac30-255d4eb8552c)
 
 
-![Stock Volume Bar Chart Race](https://github.com/user-attachments/assets/c6fa4671-babd-4cce-8517-1aa88fff888e
-)
+
 
 
 
