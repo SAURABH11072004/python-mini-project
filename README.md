@@ -11,11 +11,15 @@ In this project:
 - The result is saved as `StockVolume_BarChartRace.mp4`.
 - This video provides insights into how trading volume changes among different stocks over time.
 
+
+
+
 ## Example Video
 
+You can download or view the video from the following link:
 
-![StockVolume_BarChartRace-ezgif com-optimize (1)](https://github.com/user-attachments/assets/8d1991ea-8210-42dc-ac30-255d4eb8552c)
 
+https://github.com/user-attachments/assets/a8682cab-97c0-462c-93ce-875e28e62b7b
 
 
 
